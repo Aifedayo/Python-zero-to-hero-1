@@ -1,3 +1,5 @@
+"""Code LGTM GOOD"""
+
 print("hello", "how are you")
 x = ("apple", "banana", "cherry")
 print(x)
